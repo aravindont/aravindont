@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak Dutta</h1>
+<h1 align="center">Hi 👋, I'm Aravind Ontagodi</h1>
 <h3 align="center">A passionate Full Stack JavaScript Developer</h3>
 
 # 💫 About Me:
