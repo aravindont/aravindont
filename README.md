@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aravind Ontagodi</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-# 💫 About Me:
-
-🌱 I am currently working as a Software Engineer at TCS.
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aravind.ontagodi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-ontagodi/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aravindontagodi)
 
