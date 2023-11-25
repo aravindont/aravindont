@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aravind Ontagodi</h1>
 <h3 align="center">Frontend Developer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-ontagodi/)
 
 # 💻 Tech Stack:
 
